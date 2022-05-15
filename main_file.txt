@@ -1,2 +1,2 @@
-This is a main file
+This is a main file | text to create a conflict
 New line added from the git browsers
